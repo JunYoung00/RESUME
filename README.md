@@ -1,30 +1,31 @@
  # 한림대학교 소프트웨어융합대학
 ---
 <img src=JJY.jpg height=150 widht=150>
-전준영
-
+#### 전준영
+#### email : jeon7625@naver.com
 ---
 소속 : 소프트웨어융합대학  
 전공 : 스마트IOT  
-#### 이름 : 전준영
-#### email : jeon7625@naver.com
-#### university : hallym university
 
->취미 
->>게임  
->>운동  
->>노래  
+관심분야
+* 언어프로그래밍
+* 선형대수
+* **오픈소스**
+* 자료구조
+* jupyter notebook
 
-## 사용 언어
+프로그래밍 언어 스킬
 1. Java
 2. C
-3. C++
-4. Python
-
-## 최근 관심 분야
-* 오픈소스
-* 딥러닝
-* 블록체인
------
-* jupyter notebook
-* tensorflow
+3. Python
+4. Script
+-------
+ 2020 2학기 수강 과목
+ |과목|내용|학점|
+ |---|---|---|
+ |선형대수|선형 수학|3|
+ |오픈소스 SW의이해|github 사용법|3|
+ |자바프로그래밍II|자바 언어|3|
+ |임베디드 시스템|라즈베리 파이|3|
+ |소프트웨어 특강|Jupyter Notebook|3|
+ |데이터구조와컴퓨팅|행렬 수학|3|
