@@ -1,7 +1,7 @@
  # 한림대학교 소프트웨어융합대학
 ---
 <img src=JJY.jpg height=150 widht=150>
-전준영
+전준영  
 email : jeon7625@naver.com
 
 ---
