@@ -29,3 +29,8 @@
  |임베디드 시스템|라즈베리 파이|3|
  |소프트웨어 특강|Jupyter Notebook|3|
  |데이터구조와컴퓨팅|행렬 수학|3|
+ 
+github address: [JunYoung00][github] 
+
+[github]:http://github.com/Junyoung00
+ 
