@@ -2,11 +2,16 @@
 ---
 <img src=JJY.jpg height=150 widht=150>
 전준영  
-email : jeon7625@naver.com
 
 ---
 소속 : 소프트웨어융합대학  
 전공 : 스마트IOT  
+학년 : 2학년  
+
+>취미
+>>운동   
+>>노래   
+>>게임   
 
 관심분야
 * 언어프로그래밍
@@ -15,11 +20,15 @@ email : jeon7625@naver.com
 * 자료구조
 * jupyter notebook
 
-프로그래밍 언어 스킬
+프로그래밍 사용 언어
 1. Java
 2. C
 3. Python
 4. Script
+
+### 관심있는 사이트 
+[프로그래머스][programmers]
+
 -------
  2020 2학기 수강 과목
  |과목|내용|학점|
@@ -34,4 +43,4 @@ email : jeon7625@naver.com
 github address: [JunYoung00][github] 
 
 [github]:http://github.com/Junyoung00
- 
+[programmers]:https://programmers.co.kr/
