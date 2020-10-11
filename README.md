@@ -1,7 +1,11 @@
- # 한림대학교 스마트IOT
+ # 한림대학교 소프트웨어융합대학
 ---
 <img src=JJY.jpg height=150 widht=150>
-## 개인 이력사항
+전준영
+
+---
+소속 : 소프트웨어융합대학  
+전공 : 스마트IOT  
 #### 이름 : 전준영
 #### email : jeon7625@naver.com
 #### university : hallym university
