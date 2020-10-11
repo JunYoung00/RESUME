@@ -1,6 +1,7 @@
  # 한림대학교 스마트IOT
 ---
 ![이력서사진](JJY.jpg)
+<img src=JJY.jpg height=150 widht=150>
 ## 개인 이력사항
 #### 이름 : 전준영
 #### email : jeon7625@naver.com
