@@ -1,9 +1,9 @@
- # Hi there , I'm Jeon Junyoung
+ # :raised_hand:Hi there , I'm Jeon Junyoung:raised_hand:
 ---
 <img src=JJY.jpg height=150 widht=150>
 
 ---
-이름 : 전준영    
+이름 : 전준영:boy:    
 소속 : 소프트웨어융합대학    
 전공 : 스마트IOT    
 학년 : 2학년    
@@ -11,16 +11,17 @@
 군필 여부 :미필   
 
 ---
-학력:smile:
+학력:mortar_board:    
 * 구리 중학교졸업   
 * 구리 고등학교졸업   
 * 한림 대학교 스마트 IOT, 빅 데이터 전공 재학
 
 ---
 취미:star: 
-* 운동   
-* 노래   
-* 게임   
+* 운동:muscle:    
+* 노래:microphone:   
+* 게임:video_game:   
+* 전자제품 고치기:hammer:   
 
 ---
 관심분야:book:
@@ -37,15 +38,15 @@
 * Python
 * Script
 
-좋아하는 프로그래밍 언어:computer:
+좋아하는 프로그래밍 언어:computer:  
 * Java,C Programming
 
 ---
-### 관심있는 사이트 
+### 관심있는 사이트:earth_asia:   
 [프로그래머스][programmers]
 
 -------
- 2020 1학기 수강 과목 및 성적
+ 2020 1학기 수강 과목 및 성적:memo: 
  |과목|학점|성적|
  |---|---|---|
  |C프로그래밍|3|B+|
@@ -54,9 +55,10 @@
  |모바일센서공학|3|A+|
  |논리설계및실험|3|A+| 
  |알기쉬운미분적분학|3|A+|
- 
+:trophy:2학년 1학기 성적장학금:trophy:    
+
 --------
- 2020 2학기 수강 과목
+ 2020 2학기 수강 과목:memo:  
  |과목|내용|학점|
  |---|---|---|
  |선형대수|선형 수학|3|
