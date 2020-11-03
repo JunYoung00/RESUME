@@ -1,36 +1,46 @@
- # 한림대학교 소프트웨어융합대학
+ # Hi there , I'm Jeon Junyoung
 ---
 <img src=JJY.jpg height=150 widht=150>
-전준영  
 
 ---
+이름 : 전준영  
 소속 : 소프트웨어융합대학  
 전공 : 스마트IOT  
 학년 : 2학년  
 나이 : 21 살    
 군필 여부 :미필 
 
-취미   
+---
+학력:smile:
+* 구리 중학교졸업   
+* 구리 고등학교졸업   
+* 한림 대학교 스마트 IOT, 빅 데이터 전공 재학
+
+---
+취미:star: 
 * 운동   
 * 노래   
 * 게임   
 
-관심분야
+---
+관심분야:book:
 * 언어프로그래밍
 * 선형대수
 * **오픈소스**
 * 자료구조
 * jupyter notebook
 
-프로그래밍 사용 언어
+---
+프로그래밍 사용 언어:computer:
 * Java
 * C
 * Python
 * Script
 
-좋아하는 프로그래밍 언어
+좋아하는 프로그래밍 언어:computer:
 * Java,C Programming
 
+---
 ### 관심있는 사이트 
 [프로그래머스][programmers]
 
