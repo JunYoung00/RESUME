@@ -3,6 +3,10 @@
 <img src=JJY.jpg height=150 widht=150>
 
 ---
+**이력서 한번에 보기**
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71204818/97970718-4b2f6880-1e05-11eb-98bf-e964729e25ff.gif)
+
+---
 이름 : 전준영:boy:    
 소속 : 소프트웨어융합대학    
 전공 : 스마트IOT    
